@@ -71,7 +71,14 @@ h1 {
 .tjanster-imgs {
     width: 20rem;
     height: auto;
-    padding: 2rem;
+}
+
+.img-kok {
+    margin: 2rem 2rem 2rem 0;
+}
+
+.img-wc {
+    margin: 2rem 0 2rem 2rem;
 }
 
 .tjanster-img-div {
@@ -142,6 +149,7 @@ h3 {
     ul, li {
         display: none;
     }
+
 }
 
 
@@ -165,8 +173,12 @@ h3 {
         flex-direction: column;
     }
 
-    .tjanster-imgs {
-        padding: 2rem 0 0 0;
+    .img-kok {
+        margin: 2rem 0 0 0;
+    }
+    
+    .img-wc {
+        margin: 2rem 0 0 0;
     }
 }
 
