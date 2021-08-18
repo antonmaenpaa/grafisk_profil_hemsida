@@ -73,14 +73,6 @@ h1 {
     height: auto;
 }
 
-.img-kok {
-    /* margin: 2rem 2rem 2rem 0; */
-}
-
-.img-wc {
-    /* margin: 2rem 0 2rem 2rem; */
-}
-
 .tjanster-img-div {
     position: relative;
     text-align: center;
@@ -179,13 +171,6 @@ h3 {
         flex-direction: column;
     }
 
-    .img-kok {
-        margin: 2rem 0 0 0;
-    }
-    
-    .img-wc {
-        margin: 2rem 0 0 0;
-    }
 }
 
 
